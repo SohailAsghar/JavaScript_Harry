@@ -10,3 +10,7 @@ if(a<b){
 }else{
     console.log("You are qualified for this session!")
 }
+
+if(a>=b){
+    console.log("You can try once more!")
+}

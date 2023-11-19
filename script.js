@@ -219,9 +219,9 @@ if(a>10 && a<20){
 //     i++
 // }while(i<n)
 
-let n = prompt("Enter a value!");
-let i = 10
-do{
-    console.log(i+1)
-    i++
-}while(i<n)
+// let n = prompt("Enter a value!");
+// let i = 10
+// do{
+//     console.log(i+1)
+//     i++
+// }while(i<n)
